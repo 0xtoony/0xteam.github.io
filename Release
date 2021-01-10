@@ -1,0 +1,7 @@
+Origin: https://github.com/0xtoony/0xteam.github.io
+Label: 0xteam 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: repo
